@@ -8,7 +8,7 @@
  *
  */
 
-package local.lorensen.jacob.statemachine;
+package org.zapto.jablo.statemachine;
 
 import java.util.Iterator;
 import java.util.LinkedList;

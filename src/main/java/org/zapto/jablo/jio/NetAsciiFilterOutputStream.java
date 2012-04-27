@@ -4,7 +4,7 @@
  * 
  * Jacob Lorensen, TDC KabelTV, 2006
  */
-package local.lorensen.jacob.jio;
+package org.zapto.jablo.jio;
 
 import java.io.*;
 

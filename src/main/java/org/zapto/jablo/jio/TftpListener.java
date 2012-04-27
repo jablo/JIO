@@ -4,7 +4,7 @@
  *
  * Jacob Lorensen, TDC KabelTV, 2006
  */
-package local.lorensen.jacob.jio;
+package org.zapto.jablo.jio;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -16,8 +16,8 @@ import java.util.Timer;
 import java.util.TimerTask;
 import java.util.logging.Logger;
 import java.util.prefs.Preferences;
-import local.lorensen.jacob.jio.AbstractUDPServer.SessionWorker.AbstractUDPSession;
-import local.lorensen.jacob.statemachine.AbstractStateMachine;
+import org.zapto.jablo.jio.AbstractUDPServer.SessionWorker.AbstractUDPSession;
+import org.zapto.jablo.statemachine.AbstractStateMachine;
 
 /**
  * TftpListener implements a TFTP server. The implementation is flexible&mdash;it is meant to be

@@ -2,14 +2,14 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package local.lorensen.jacob.jio;
+package org.zapto.jablo.jio;
 
 import java.io.File;
 import java.io.FilenameFilter;
 import java.util.*;
 import java.util.logging.Logger;
-import local.lorensen.jacob.util.CollectionUtils;
-import local.lorensen.jacob.util.CollectionUtils.MapperProc;
+import org.zapto.jablo.util.CollectionUtils;
+import org.zapto.jablo.util.CollectionUtils.MapperProc;
 
 /**
  *

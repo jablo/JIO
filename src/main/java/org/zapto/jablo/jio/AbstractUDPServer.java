@@ -4,7 +4,7 @@
  *
  * Jacob Lorensen, TDC KabelTV, 2006
  */
-package local.lorensen.jacob.jio;
+package org.zapto.jablo.jio;
 
 import java.io.IOException;
 import java.net.InetAddress;
@@ -18,8 +18,8 @@ import java.nio.channels.SelectionKey;
 import java.nio.channels.Selector;
 import java.util.*;
 import java.util.logging.Logger;
-import local.lorensen.jacob.statemachine.AbstractStateMachine;
-import local.lorensen.jacob.util.WatchDog;
+import org.zapto.jablo.statemachine.AbstractStateMachine;
+import org.zapto.jablo.util.WatchDog;
 
 /**
  * Abstract multithreaded, nonblocking I/O UDP Server. The purpose of the

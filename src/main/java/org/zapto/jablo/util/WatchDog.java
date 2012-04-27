@@ -4,7 +4,7 @@
  *
  * Jacob Lorensen, TDC KabelTV, 2006.
  */
-package local.lorensen.jacob.util;
+package org.zapto.jablo.util;
 
 import java.util.Iterator;
 import java.util.LinkedList;

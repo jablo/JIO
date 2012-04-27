@@ -10,7 +10,7 @@
  * and open the template in the editor.
  */
 
-package local.lorensen.jacob.jio;
+package org.zapto.jablo.jio;
 
 import java.io.BufferedReader;
 import java.io.File;
